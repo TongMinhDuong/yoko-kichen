@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+.clear{
+    clear: both;
+}
+#background{
+    background-image: url(dark-wood.jpg);
+    padding-top: 20px;
+}
+#head{
+    
+    background-image: url(header.jpg);
+    width: 940px;
+    height: 130px;
+    margin: auto;
+}
+#headlink{
+
+    width: 940px;
+    height: 30px;
+    background-color: #aeaca8;
+    margin: auto;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+#content{
+    width: 940px;
+    height: 550px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+
+}
+#footer{
+    width: 940px;
+    height: 30px;
+    background-color: #aeaca8;
+    margin: auto;
+}
+p{
+    display: inline;
+   
+}
+a{ color: white;
+    text-decoration: none;
+    margin: 25px;
+    
+}
+.black{
+    color: black;
+}
+.bokchoi{
+    width: 310px;
+    height: 230px;
+    background-color: white;
+    
+    border: 1px solid #CDCDCD;
+    padding: 7px;
+    
+}
+#left{
+    width: 310px;
+    min-height: 230px;
+    border: 1px solid #CDCDCD;
+    float:left;
+    background-color: white;
+    margin-top: 50px;
+    padding: 7px;
+
+}
+#text{
+    width: 310px;
+    min-height: 200px;
+    float:left;
+    margin-top: -222px;
+    margin-left: 20px;
+}
+#text2{
+    width: 310px;
+    min-height: 200px;
+    float:left;
+    margin-top: 54px;
+    margin-left: 20px;
+}
+#right{
+    width: 260px;
+    min-height: 550px;   
+    float:right;
+    margin-top: -250px;
+    margin-right: -2%;
+    border: 1px solid #aeaca8;
+}
+#menu{
+    margin-left: 15px;
+    width: 200px;
+    border-bottom: 1px solid #aeaca8;
+    
+}
+#menu2{
+    margin-left: 15px;
+    width: 200px;
+    border-bottom: 1px solid #aeaca8;
+    
+}
+#menu3{
+    margin-left: 15px;
+    width: 200px;
+    border-bottom: 1px solid #aeaca8;
+    
+}
+#menu4{
+    margin-left: 15px;
+    width: 200px;
+    border-bottom: 1px solid #aeaca8;
+    
+}
+#populer{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#footer{
+    color: white;
+}
+.bottom{
+    line-height: 30px;
+    padding-left: 20px;
+}
+html{
+    font-family: "Arial Unicode MS";
+}
